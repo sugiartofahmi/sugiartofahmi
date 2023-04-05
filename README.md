@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a student pursuing a degree in technology. I have experience in web programming, especially in front-end development using HTML, CSS and JavaScript. I also have skills in using frameworks like React and Vue. I am very interested in doing an internship in front-end web development and am confident that I can add positive value to the company.
+I'm a student pursuing a degree in technology. I have experience in web programming, especially in front-end development using HTML, CSS and JavaScript. I also have skills in using frameworks like React and Vue. I'm very interested in doing an internship in front-end web development and i'm confident that I can add positive value to the company.
 
 
 ## 🌐 Socials:
