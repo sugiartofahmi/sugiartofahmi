@@ -1,5 +1,5 @@
 # 💫 About Me:
-An informatics engineering student with experience in web programming, especially in front end development using HTML, CSS and JavaScript. Besides that, I also have expertise in using the React JS framework and Tailwind CSS. I am very interested in doing an internship in front-end web development and I'm sure I can make a positive contribution for the company
+An informatics engineering student at Universitas Islam Nusantara with experience in backend development. Proficient in building applications using the Nest.js Typescript framework, creating API documentation, designing databases, and applying Git features. One of the projects worked on was building the backend for an internal campus application using microservices architecture. Has a high learning spirit and is always eager to improve skills in backend development. Has good communication skills and is able to work effectively in a team.
 
 
 ## 🌐 Socials:
